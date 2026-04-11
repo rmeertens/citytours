@@ -18,10 +18,16 @@ Maastricht is de oudste stad van Nederland en voelt als nergens anders in het la
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Maastricht_sunset.jpg?width=800" alt="Maastricht bij zonsondergang">
+<p class="photo-caption">Maastricht bij zonsondergang — de oudste stad van Nederland</p>
+
 ## Route
 
 ### 1. Het Vrijthof (20 minuten)
 Begin op het **Vrijthof**, het grote centrale plein van Maastricht, omgeven door caféterrassen, de **Sint-Janskerk** (met de felrode toren) en de **Sint-Servaasbasiliek**. In de zomer bruist het plein van de buitenterrassen, in de winter is er de beroemde kerstmarkt. Ga zitten voor een koffie en neem de sfeer in je op.
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Maastricht_platz_vor_liebfrauenkirche.jpg?width=800" alt="Het Onze-Lieve-Vrouweplein">
+<p class="photo-caption">Het Onze-Lieve-Vrouweplein, het sfeervolste plein van Maastricht</p>
 
 ### 2. Sint-Servaasbasiliek (30 minuten)
 Ga de **Sint-Servaasbasiliek** binnen, gewijd aan de eerste bisschop van Maastricht en een van de oudste kerken van Nederland (gebouwd vanaf de 6e eeuw). De schatkamer herbergt de **Noodkist van Sint-Servaas**, een opmerkelijk Romaans reliekschrijn uit omstreeks 1160, evenals gouden processiekruisen en middeleeuwse paramenten.

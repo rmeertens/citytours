@@ -14,6 +14,9 @@ description: "The capital of the north: a cycling-obsessed university city with 
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Martini_Toren.JPG?width=800" alt="The Martinitoren — Groningen's 97-metre landmark">
+<p class="photo-caption">The Martinitoren — Groningen's 97-metre landmark</p>
+
 ## The City in 60 Seconds
 
 Groningen is the capital of the northern province of the same name and the Netherlands' seventh-largest city — though you wouldn't guess the rank from the centre, which feels intimate and human-scaled. The university (1614, second oldest in the Netherlands) gives the city 60,000 students in a population of 230,000 — the second-highest ratio in the country after Wageningen. The effect is immediately visible: every other building is a café, bar, or student union, and the cycling infrastructure is extraordinary even by Dutch standards.
@@ -75,6 +78,9 @@ This is your coffee or lunch stop. The street is lined with cafés ranging from 
 ### 4. Grote Markt & Goudkantoor — Market Square
 
 **Time here:** 20 minutes
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Grote_markt_zuidzijde.jpg?width=800" alt="The south side of Groningen's Grote Markt">
+<p class="photo-caption">The south side of Groningen's Grote Markt</p>
 
 The **Grote Markt** is one of the largest market squares in the Netherlands — the scale reflects Groningen's historical status as the dominant trading city of the north, controlling grain trade across the region from the 14th century onward. On market days (Tuesday, Friday, Saturday) it fills with produce stalls; on other days it's a car park, which is a shame but honest.
 

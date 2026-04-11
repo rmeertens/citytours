@@ -14,6 +14,9 @@ description: "Rembrandt's birthplace, the tulip's European debut, a 131-day Span
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Rapenburg_Leiden_Centrum.jpg?width=800" alt="The Rapenburg canal">
+<p class="photo-caption">The Rapenburg — often called the most beautiful canal in the Netherlands</p>
+
 ## The City in 60 Seconds
 
 Leiden sits at the confluence of two branches of the Rhine — the Oude Rijn and the Nieuwe Rijn — which gives the city a distinctive texture: canals everywhere, bridges everywhere, and a sense that the city is built around water rather than next to it.
@@ -29,6 +32,9 @@ The Rapenburg canal — the spine of the city — is widely considered the most 
 ### 1. Burcht van Leiden — Medieval Fortress
 
 **Time here:** 20 minutes
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Burcht_van_Leiden.jpg?width=800" alt="The Burcht, Leiden">
+<p class="photo-caption">The Burcht, a 12th-century shell keep on an artificial mound</p>
 
 The **Burcht** is a 12th-century circular fortress on a mound (*motte*) at the exact point where the Oude Rijn and Nieuwe Rijn meet. It's small — the inner courtyard is about 20 metres across — but the view from the top of the shell keep is the best orientation point in Leiden: you can see the two rivers diverging below you, the city's canal network spreading outward in both directions, and the spire of the Pieterskerk to the south.
 

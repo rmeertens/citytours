@@ -14,6 +14,9 @@ description: "A company town that became a design capital: Philips's factory dis
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Lichttoren_Eindhoven_1_-_Cropped.jpg?width=800" alt="The Lichttoren — Philips's original light tower, now Eindhoven's symbol">
+<p class="photo-caption">The Lichttoren — Philips's original light tower, now Eindhoven's symbol</p>
+
 ## The City in 60 Seconds
 
 In 1900, Eindhoven was a small market town of 4,000 people. Gerard Philips had built a light bulb factory here in 1891 because land was cheap and workers were plentiful. By 1960, Philips had brought 170,000 people to the city — building housing, schools, hospitals, sports clubs, and radio broadcasting facilities for its employees. Eindhoven was the world's most complete company town.

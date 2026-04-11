@@ -14,6 +14,9 @@ description: "A city bombed flat in 1940 and rebuilt as the boldest architectura
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Erasmusbrug,_September_2019.jpg?width=800" alt="Erasmusbrug, Rotterdam">
+<p class="photo-caption">The Erasmusbrug — Rotterdam's iconic swan-shaped bridge</p>
+
 ## The City in 60 Seconds
 
 On 14 May 1940, the Luftwaffe bombed Rotterdam's city centre in a deliberate terror attack lasting 15 minutes. Around 900 people were killed and 2.6 km² of the historic city — almost everything — was destroyed. The Netherlands surrendered the next day.
@@ -29,6 +32,9 @@ This is not a city of canals and cheese shops. It's loud, ambitious, port-city b
 ### 1. Markthal — Indoor Market Hall
 
 **Time here:** 30 minutes
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Markthal_Rotterdam.jpg?width=800" alt="Markthal, Rotterdam">
+<p class="photo-caption">The Markthal — a horseshoe-shaped market hall with painted ceiling</p>
 
 Start here for breakfast. The Markthal (2014) is the most dramatic building you'll see today: a horseshoe-shaped residential block arching 40 metres over an indoor market, its inner walls covered in a pixelated digital mural — 11,000 m² of giant fruit, vegetables, fish, and flowers. It's the largest artwork in the Netherlands. It's also slightly overwhelming, which is the point.
 

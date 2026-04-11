@@ -14,6 +14,9 @@ description: "Vermeer's city: cobblestone canals, a leaning tower, blue pottery,
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Delft_-_Markt.jpg?width=800" alt="Delft's Markt square with the Nieuwe Kerk">
+<p class="photo-caption">Delft's Markt square with the Nieuwe Kerk</p>
+
 ## The City in 60 Seconds
 
 Delft produced two of the most significant figures in the history of seeing: Johannes Vermeer, who painted light with an accuracy that baffled experts for centuries, and Antonie van Leeuwenhoek, who invented the microscope and was the first person to see bacteria. Both were born here in 1632. Both died here. Neither ever really left.

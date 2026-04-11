@@ -14,6 +14,9 @@ description: "The cheese isn't even the best thing here. Gouda's 13th-century ma
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/13-06-27-gouda-by-RalfR-054.jpg?width=800" alt="Gouda's Gothic town hall on the Markt — the largest market square in the Netherlands">
+<p class="photo-caption">Gouda's Gothic town hall on the Markt — the largest market square in the Netherlands</p>
+
 ## The City in 60 Seconds
 
 Gouda was one of the most important cities in medieval Holland — a centre of cloth, beer, and eventually cheese production, with a market square that needed to be enormous to accommodate the regional trade. The **Markt** is still the largest in the Netherlands, measuring 120 × 90 metres. The **Sint-Janskerk** — the longest church in the Netherlands at 123 metres — towers over one side of it.

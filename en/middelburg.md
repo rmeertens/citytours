@@ -14,6 +14,9 @@ description: "The capital of Zeeland: an island city with a 12th-century abbey, 
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Middelburg_Stadhuis_01.JPG?width=800" alt="Middelburg's Gothic town hall — rebuilt stone by stone after 1940">
+<p class="photo-caption">Middelburg's Gothic town hall — rebuilt stone by stone after 1940</p>
+
 ## The City in 60 Seconds
 
 Middelburg is the capital of Zeeland, the Netherlands' southwesternmost province — a region of islands, tidal estuaries, and North Sea coastline that spent most of its history as a separate maritime world from the rest of the country. Middelburg itself was founded in the 9th century as a defensive settlement against Viking raids and grew into one of the Dutch East India Company's most important ports in the 17th century.

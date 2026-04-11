@@ -18,6 +18,9 @@ Den Haag is de zetel van de Nederlandse regering, het Internationaal Gerechtshof
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Den_Haag_Binnenhof_02.jpg?width=800" alt="Het Binnenhof en de Hofvijver">
+<p class="photo-caption">Het Binnenhof — zetel van het Nederlandse parlement sinds de 13e eeuw</p>
+
 ## Route
 
 ### 1. Binnenhof & Hofvijver (30 minuten)

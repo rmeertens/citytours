@@ -14,6 +14,9 @@ description: "A medieval tower without its church, canals you can drink at, and 
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Domtoren.jpg?width=800" alt="The Dom Tower — tallest church tower in the Netherlands">
+<p class="photo-caption">The Dom Tower — tallest church tower in the Netherlands</p>
+
 ## The City in 60 Seconds
 
 Most Dutch cities have a church with a tower attached. Utrecht has a tower and a church with a gap between them. In 1674, a freak tornado tore through Utrecht and collapsed the nave of the Domkerk in minutes — the walls fell outward, the debris was carted away, and the gap between the surviving tower and the surviving choir has been an open square ever since. You walk through that square today without thinking about it. Then someone tells you, and the city becomes stranger and more interesting immediately.
@@ -57,6 +60,9 @@ The garden was originally part of the Domkapittel — the administrative centre 
 ### 3. Oudegracht — The Wharf Canal
 
 **Time here:** 45 minutes
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Oudegracht_Utrecht.jpg?width=800" alt="The Oudegracht's unique wharf-level cellars">
+<p class="photo-caption">The Oudegracht's unique wharf-level cellars</p>
 
 This is Utrecht's strangest and most satisfying feature. The Oudegracht (Old Canal) runs through the centre of the city on two levels: street level, with bridges and traffic above, and wharf level, with a continuous stone walkway right at the waterline, lined with medieval cellar vaults that were used as warehouses from the 13th century onward.
 

@@ -14,6 +14,9 @@ description: "The oldest city in the Netherlands, where Romans crossed the Meuse
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Maastricht_sunset.jpg?width=800" alt="Maastricht at sunset">
+<p class="photo-caption">Maastricht at sunset — the oldest city in the Netherlands</p>
+
 ## The City in 60 Seconds
 
 Maastricht was founded by the Romans around 50 BC as *Mosae Trajectum* — "crossing on the Meuse" — a ford on the strategic road between Cologne and the Rhine delta. It's been a city, in continuous use, for over 2,000 years. The Romans built a stone bridge here in the 1st century AD. Parts of that bridge still exist in the foundations of the current bridge. The medieval walls were built on top of Roman walls. The city's oldest church has foundations from the 4th century.
@@ -57,6 +60,9 @@ The interior is layered in exactly the way the city is: Romanesque arches from t
 ### 3. Onze-Lieve-Vrouwebasiliek & Stokstraat — Romanesque Basilica & Elegant Street
 
 **Time here:** 30 minutes
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Maastricht_platz_vor_liebfrauenkirche.jpg?width=800" alt="Onze-Lieve-Vrouweplein, Maastricht">
+<p class="photo-caption">The Onze-Lieve-Vrouweplein, Maastricht's atmospheric square</p>
 
 The **Basilica of Our Lady** (Onze-Lieve-Vrouwebasiliek) is the oldest church in the Netherlands — 11th-century Romanesque, with foundations from an even earlier structure — and it faces the Vrijthof's southern side. Where the Sint-Servaas reads as grand and ceremonial, the OLV reads as intimate and powerful: smaller, darker, with a massive west apse that makes the entrance feel like a fortress rather than a welcome.
 

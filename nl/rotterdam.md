@@ -18,9 +18,16 @@ Rotterdam is anders dan alle andere Nederlandse steden. Na de verwoesting door h
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Erasmusbrug,_September_2019.jpg?width=800" alt="Erasmusbrug, Rotterdam">
+<p class="photo-caption">De Erasmusbrug — het iconische silhouet van Rotterdam</p>
+
 ## Route
 
 ### 1. Markthal (20 minuten)
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Markthal_Rotterdam.jpg?width=800" alt="Markthal Rotterdam">
+<p class="photo-caption">De Markthal — een hoefijzervormige markthal met beschilderd plafond</p>
+
 Begin bij de **Markthal**, Rotterdams adembenemende overdekte markthal (2014). Het hoefijzervormige gebouw overwelft 40 meter boven kramen met eten van over de hele wereld, terwijl de binnenwanden bedekt zijn met een 11.000 m² groot digitaal kunstwerk van reusachtige groenten en fruit. Haal je ontbijt bij een van de kramen.
 
 ### 2. Kubuswoningen (20 minuten)

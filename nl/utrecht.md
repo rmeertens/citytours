@@ -14,6 +14,9 @@ description: "Een middeleeuwse toren zonder zijn kerk, kades waar je op het wate
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Domtoren.jpg?width=800" alt="De Domtoren — de hoogste kerktoren van Nederland">
+<p class="photo-caption">De Domtoren — de hoogste kerktoren van Nederland</p>
+
 ## De stad in 60 seconden
 
 De meeste Nederlandse steden hebben een kerk met een toren eraan vast. Utrecht heeft een toren en een kerk met een gat daartussen. In 1674 trok een tornado door Utrecht en stortte het middenschip van de Domkerk in enkele minuten in — de muren vielen naar buiten, het puin werd weggehaald, en het gat tussen de overgebleven toren en het overgebleven koor is sindsdien een open plein. Je loopt er vandaag doorheen zonder erover na te denken. Dan vertelt iemand het je, en de stad wordt onmiddellijk vreemder en interessanter.
@@ -75,6 +78,9 @@ De tuin maakte oorspronkelijk deel uit van het Domkapittel — het bestuurlijk c
 ### 4. Oudegracht — De Werfkades
 
 **Tijd hier:** 45 minuten
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Oudegracht_Utrecht.jpg?width=800" alt="De unieke werfkelders aan de Oudegracht">
+<p class="photo-caption">De unieke werfkelders aan de Oudegracht</p>
 
 Dit is Utrechts vreemdste en bevredigendste kenmerk. De Oudegracht (Oude Gracht) loopt door het centrum van de stad op twee niveaus: straatniveau, met bruggen en verkeer erboven, en werfniveau, met een doorlopende stenen loopbrug direct aan het wateroppervlak, bekleed met middeleeuwse werfkelders die vanaf de 13e eeuw als pakhuizen werden gebruikt.
 

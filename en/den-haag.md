@@ -14,6 +14,9 @@ description: "The seat of government that isn't the capital, home to Vermeer's m
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Den_Haag_Binnenhof_02.jpg?width=800" alt="Binnenhof and Hofvijver, The Hague">
+<p class="photo-caption">The Binnenhof — seat of Dutch Parliament since the 13th century</p>
+
 ## The City in 60 Seconds
 
 Den Haag began as a royal hunting lodge in the 13th century — the name means "the hedge" (as in the hedge surrounding the count's hunting park). It grew into a court city: the seat of power without ever being a trading or manufacturing centre. This distinguishes it sharply from Amsterdam, Rotterdam, or Utrecht — there's no industrial past, no great commercial port, no Golden Age merchant wealth. Instead there are embassies, ministries, law courts, and the quiet self-confidence of a city that has always hosted the people who make decisions.

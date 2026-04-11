@@ -14,6 +14,9 @@ description: "The birthplace of Hieronymus Bosch, a Gothic cathedral that took 6
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/St._Jans_cathedral_%27s-Hertogenbosch.jpg?width=800" alt="Sint-Janskathedraal — 600 years of Gothic architecture">
+<p class="photo-caption">Sint-Janskathedraal — 600 years of Gothic architecture</p>
+
 ## The City in 60 Seconds
 
 's-Hertogenbosch — the Duke's Forest — was founded in 1185 by Duke Henry I of Brabant. It grew into one of the largest cities in the Low Countries during the Middle Ages and the principal city of the Duchy of Brabant. Its most famous son, the painter **Hieronymus Bosch** (c. 1450–1516), spent his entire life here. His paintings of heaven, hell, and the grotesque human condition — *The Garden of Earthly Delights*, *The Haywain*, *The Temptation of St. Anthony* — were made within a few hundred metres of where you're standing.
@@ -85,6 +88,9 @@ The square is flanked by the **Provinciehuis** (Provincial Government building) 
 ### 5. Dieze River & Binnendieze — Underground Canals
 
 **Time here:** 45 minutes
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Binnendieze_%27s-Hertogenbosch.jpg?width=800" alt="The Binnendieze — Den Bosch's hidden underground canals">
+<p class="photo-caption">The Binnendieze — Den Bosch's hidden underground canals</p>
 
 Den Bosch has something most Dutch cities lack: a **partially underground canal system**. The **Binnendieze** is a network of small rivers and canals that run partly under the historic city — through arches beneath buildings, under squares, through medieval undercrofts. In the medieval period, the Binnendieze served the same purpose as Amsterdam's canals: transport and drainage. When the city grew, buildings were constructed over the water rather than beside it.
 

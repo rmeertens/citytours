@@ -14,6 +14,9 @@ description: "Van Rembrandts Nachtwacht tot de bruine cafés van de Jordaan — 
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Rijksmuseum.jpg?width=800" alt="Het Rijksmuseum, thuisbasis van Rembrandts Nachtwacht">
+<p class="photo-caption">Het Rijksmuseum, thuisbasis van Rembrandts Nachtwacht</p>
+
 ## De stad in 60 seconden
 
 Amsterdam is gebouwd op tegenstellingen. Het is tegelijkertijd de wereldhoofdstad van de Gouden Eeuwse schilderkunst en van het pragmatisch liberalisme; een stad van 17e-eeuwse grachtenpanden en 21e-eeuwse fietsinfrastructuur. Het historische centrum — de grachtengordel — werd gebouwd in één opmerkelijke bouwperiode tussen 1613 en 1663 en is sindsdien nauwelijks veranderd. Het staat op de UNESCO Werelderfgoedlijst niet omdat het een museumstuk is, maar omdat er nog gewone mensen wonen.
@@ -52,6 +55,9 @@ Loop op weg naar buiten door de hoofdhal heen en kijk omhoog naar het gewelfde p
 
 **Tijd hier:** 20 minuten
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Vondelpark_Amsterdam.jpg?width=800" alt="Vondelpark — Amsterdams groene long">
+<p class="photo-caption">Vondelpark — Amsterdams groene long</p>
+
 Vondelpark is Amsterdams uitademing. Vernoemd naar de dichter Joost van den Vondel, zijn het 47 hectare Engelse landschapstuin die de stad gebruikt precies zoals een park gebruikt zou moeten worden: hondenwandelaars, fietsende forenzen, studenten die op bankjes lezen, en mensen die slecht gitaar spelen bij de rozentuin.
 
 Loop het hoofdpad naar het noordwesten langs de muziektent naar het **Blauwe Theehuis** — een modernistisch paviljoen uit 1936 in de vorm van een vliegende schotel, met terrasplaatsen en een betrouwbare flat white. Dit is je koffiestop.
@@ -83,6 +89,9 @@ Je bent hier niet om te winkelen. Je bent hier om langzaam te lopen, naar de gra
 ### 4. Westerkerk & Prinsengracht — Gracht & Kerk
 
 **Tijd hier:** 20 minuten
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Westerkerk_Amsterdam.jpg?width=800" alt="De Westerkerk-toren rijst 85 meter boven de Prinsengracht uit">
+<p class="photo-caption">De Westerkerk-toren rijst 85 meter boven de Prinsengracht uit</p>
 
 De **Westerkerk** (1631) is de hoogste kerk van Amsterdam met 85 meter, bekroond door de keizerskroon van de Heilige Roomse Keizer Maximiliaan I — een symbool dat Amsterdam in 1489 ontving als dank voor de loyaliteit van de stad. Rembrandt werd hier in 1669 begraven in een anoniem armengraf; een gedenkplaat op de kerkervloer markeert de geschatte locatie.
 

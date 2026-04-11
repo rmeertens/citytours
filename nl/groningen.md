@@ -12,6 +12,11 @@ description: "De hoofdstad van het noorden: een fietsende universiteitsstad met 
 **Beste tijd:** Elke dag; dinsdag en zaterdag markt op de Grote Markt  
 **Vervoer:** Te voet en fiets
 
+---
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Martini_Toren.JPG?width=800" alt="De Martinitoren — het 97 meter hoge baken van Groningen">
+<p class="photo-caption">De Martinitoren — het 97 meter hoge baken van Groningen</p>
+
 ## Overzicht
 
 Groningen is de hoofdstad van het noorden en een van de jongste steden van Nederland qua bevolking — meer dan 60.000 studenten aan twee universiteiten. Het resultaat is een energieke, nuchtere stad met een levendige caféscène, uitstekende musea en een prachtig middeleeuws centrum gedomineerd door de hoogste vrijstaande toren van Nederland. Het is veel minder toeristisch dan de Randstad, en dat is precies de charme.
@@ -24,6 +29,10 @@ Groningen is de hoofdstad van het noorden en een van de jongste steden van Neder
 Begin bij de **Martinitoren** — met 97 meter de hoogste vrijstaande toren van Nederland, zichtbaar vanuit de wijde omtrek over het vlakke Groningse land. Klim de 250 treden voor een weids uitzicht over de stad en bij helder weer ver het omliggende boerenland in. De naastgelegen **Martinikerk** (15e eeuw) is de moeite waard vanwege de middeleeuwse fresco's.
 
 ### 2. Grote Markt (15 minuten)
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Grote_markt_zuidzijde.jpg?width=800" alt="De zuidzijde van de Groningse Grote Markt">
+<p class="photo-caption">De zuidzijde van de Groningse Grote Markt</p>
+
 De **Grote Markt** aan de voet van de Martinitoren is een van de grootste marktpleinen van Nederland. Op marktdagen staat het vol met lokale producten, bloemen en kaaskramen. Het **Goudkantoor** (1635), een voormalig belastingkantoor met weelderige renaissance-gevels, staat aan de zuidkant van het plein.
 
 ### 3. Vismarkt & Poelestraat (20 minuten)

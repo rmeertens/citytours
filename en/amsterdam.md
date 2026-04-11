@@ -14,6 +14,9 @@ description: "From Rembrandt's Night Watch to the brown cafés of the Jordaan �
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Rijksmuseum.jpg?width=800" alt="The Rijksmuseum, home to Rembrandt's Night Watch">
+<p class="photo-caption">The Rijksmuseum, home to Rembrandt's Night Watch</p>
+
 ## The City in 60 Seconds
 
 Amsterdam is built on contradiction. It's simultaneously the world capital of Golden Age painting and of pragmatic liberalism; a city of 17th-century canal houses and 21st-century cycling infrastructure. The historic centre — the grachtengordel, or canal ring — was built in a single remarkable burst of activity between 1613 and 1663 and has barely changed since. It's a UNESCO World Heritage Site not because it's a museum piece, but because people still actually live in it.
@@ -52,6 +55,9 @@ On your way out through the main hall, look up at the vaulted ceiling: it's cove
 
 **Time here:** 20 minutes
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Vondelpark_Amsterdam.jpg?width=800" alt="Vondelpark — Amsterdam's green lung">
+<p class="photo-caption">Vondelpark — Amsterdam's green lung</p>
+
 Vondelpark is Amsterdam's exhale. Named after the poet Joost van den Vondel, it's 47 hectares of English-style parkland that the city uses exactly as a park should be used: dog-walkers, commuting cyclists, students reading on benches, and people playing guitar badly near the rose garden.
 
 Walk the main path northwest past the bandstand to the **Blauwe Theehuis** — a 1936 modernist pavilion shaped like a flying saucer, with terrace seating and a reliable flat white. This is your coffee stop.
@@ -81,6 +87,9 @@ You're not here to shop. You're here to walk slowly, look at the canal reflectio
 ### 4. Westerkerk & Prinsengracht — Canal & Church
 
 **Time here:** 20 minutes
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Westerkerk_Amsterdam.jpg?width=800" alt="The Westerkerk tower rises 85 metres above the Prinsengracht">
+<p class="photo-caption">The Westerkerk tower rises 85 metres above the Prinsengracht</p>
 
 The **Westerkerk** (1631) is the tallest church in Amsterdam at 85 metres, topped by the imperial crown of Holy Roman Emperor Maximilian I — a symbol Amsterdam was granted in 1489 in gratitude for the city's loyalty. Rembrandt was buried here in 1669, in an unmarked pauper's grave; a memorial stone in the church floor marks the approximate location.
 

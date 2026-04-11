@@ -14,6 +14,9 @@ description: "Vermeers stad: kasseien en grachten, een scheve toren, een prinsen
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Delft_-_Markt.jpg?width=800" alt="De Markt in Delft met de Nieuwe Kerk">
+<p class="photo-caption">De Markt in Delft met de Nieuwe Kerk</p>
+
 ## De stad in 60 seconden
 
 Delft bracht twee van de meest invloedrijke figuren voort in de geschiedenis van het kijken: Johannes Vermeer, die licht schilderde met een nauwkeurigheid die experts eeuwenlang verbijsterde, en Antonie van Leeuwenhoek, die de microscoop uitvond en de eerste mens was die bacteriën zag. Beiden werden hier geboren in 1632. Beiden stierven hier. Geen van beiden verliet de stad ooit echt.

@@ -14,6 +14,9 @@ description: "De hoofdstad van Zeeland: een eilandstad met een 12e-eeuwse abdij,
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Middelburg_Stadhuis_01.JPG?width=800" alt="Het gotische stadhuis van Middelburg — steen voor steen herbouwd na 1940">
+<p class="photo-caption">Het gotische stadhuis van Middelburg — steen voor steen herbouwd na 1940</p>
+
 ## De stad in 60 seconden
 
 Middelburg is de hoofdstad van Zeeland, de zuidwestelijkste provincie van Nederland. De stad werd gesticht in de 9e eeuw als verdedigingsnederzetting tegen Vikingaanvallen en groeide uit tot een van de belangrijkste havens van de VOC in de 17e eeuw.

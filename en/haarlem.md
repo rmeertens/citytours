@@ -14,6 +14,9 @@ description: "Amsterdam's quieter neighbour: a Gothic organ that stopped Mozart 
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/HaarlemGroteMarkt1.JPG?width=800" alt="The Grote Markt with Sint-Bavo's Church">
+<p class="photo-caption">The Grote Markt with Sint-Bavo's Church</p>
+
 ## The City in 60 Seconds
 
 Haarlem was a major city before Amsterdam was. In the 15th and 16th centuries it was the centre of Dutch cloth production, with linen-bleaching fields stretching across what is now Schiphol Airport. Its wealth funded the buildings you're about to walk through: the Gothic Sint-Bavo church, the Teylers Museum, the elegant canal-front mansions along the Spaarne river.
@@ -59,6 +62,9 @@ The centrepiece is the **Oval Hall** — a two-storey neoclassical space under a
 ### 3. Spaarne Riverfront — Walk
 
 **Time here:** 20 minutes
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/De_Adriaan_windmill_in_Haarlem.jpg?width=800" alt="De Adriaan windmill on the Spaarne river">
+<p class="photo-caption">De Adriaan windmill on the Spaarne river</p>
 
 The **Spaarne** river runs north–south through Haarlem and its east bank is the most handsome part of the city: 17th-century merchant houses, old warehouse cranes, and the view back toward the spire of Sint-Bavo.
 

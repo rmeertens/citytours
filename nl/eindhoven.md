@@ -12,6 +12,11 @@ description: "Een bedrijfsstad die designhoofdstad werd: de Philips-fabrieken op
 **Beste tijd:** Elke dag; zaterdag markt op de Markt  
 **Vervoer:** Te voet
 
+---
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Lichttoren_Eindhoven_1_-_Cropped.jpg?width=800" alt="De Lichttoren — de oorspronkelijke lichttoren van Philips, nu het symbool van Eindhoven">
+<p class="photo-caption">De Lichttoren — de oorspronkelijke lichttoren van Philips, nu het symbool van Eindhoven</p>
+
 ## Overzicht
 
 Eindhoven is de designhoofdstad van Nederland — thuisbasis van Philips, de Dutch Design Week (het grootste designevenement van Noord-Europa) en een bloeiende creatieve scene. Anders dan de meeste Nederlandse steden heeft Eindhoven vrijwel geen middeleeuws erfgoed: zwaar gebombardeerd in de Tweede Wereldoorlog en helemaal opnieuw opgebouwd, omarmde Eindhoven zijn industriële en designidentiteit. Het resultaat is een energieke, vooruitkijkende stad met uitstekende hedendaagse cultuur.

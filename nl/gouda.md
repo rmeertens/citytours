@@ -14,6 +14,9 @@ description: "De kaas is niet eens het beste. Gouda's 13e-eeuwse marktplein is h
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/13-06-27-gouda-by-RalfR-054.jpg?width=800" alt="Het gotische stadhuis van Gouda op de Markt — het grootste marktplein van Nederland">
+<p class="photo-caption">Het gotische stadhuis van Gouda op de Markt — het grootste marktplein van Nederland</p>
+
 ## De stad in 60 seconden
 
 Gouda was in de middeleeuwen een van de belangrijkste steden van Holland — een centrum van laken, bier en later kaasproductie, met een marktplein dat groot genoeg moest zijn voor de regionale handel. De **Markt** is nog steeds het grootste van Nederland, 120 × 90 meter. De **Sint-Janskerk** — de langste kerk van Nederland op 123 meter — torrent aan één kant boven op.

@@ -14,6 +14,9 @@ description: "De geboorteplaats van Jeroen Bosch, een gotische kathedraal die 60
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/St._Jans_cathedral_%27s-Hertogenbosch.jpg?width=800" alt="De Sint-Janskathedraal — 600 jaar gotische architectuur">
+<p class="photo-caption">De Sint-Janskathedraal — 600 jaar gotische architectuur</p>
+
 ## De stad in 60 seconden
 
 's-Hertogenbosch — het Hertogenbos — werd gesticht in 1185 door hertog Hendrik I van Brabant en groeide uit tot een van de grootste steden van de Lage Landen in de middeleeuwen. Zijn beroemdste inwoner, de schilder **Jeroen Bosch** (ca. 1450–1516), bracht zijn hele leven hier door. Zijn schilderijen van hemel, hel en de groteske menselijke conditie — *De Tuin der Lusten*, *De Hooiwagen*, *De verzoeking van de heilige Antonius* — werden gemaakt op een steenworp afstand van waar jij nu staat.
@@ -69,6 +72,9 @@ De **Markt** is een van de fraaiste middeleeuwse marktpleinen van Nederland. Het
 ### 4. Dieze & Binnendieze — Ondergrondse grachten
 
 **Tijd hier:** 45 minuten
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Binnendieze_%27s-Hertogenbosch.jpg?width=800" alt="De Binnendieze — de verborgen ondergrondse grachten van Den Bosch">
+<p class="photo-caption">De Binnendieze — de verborgen ondergrondse grachten van Den Bosch</p>
 
 Den Bosch heeft iets wat de meeste Nederlandse steden missen: een **deels ondergronds grachtennetwerk**. De **Binnendieze** is een stelsel van kleine rivieren en grachten dat deels onder de historische stad loopt — door bogen onder gebouwen, onder pleinen, door middeleeuwse gewelven.
 

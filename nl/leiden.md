@@ -18,9 +18,16 @@ Leiden is een universiteitsstad met een middeleeuws hart, een netwerk van stille
 
 ---
 
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Rapenburg_Leiden_Centrum.jpg?width=800" alt="De Rapenburg">
+<p class="photo-caption">De Rapenburg — vaak de mooiste gracht van Nederland genoemd</p>
+
 ## Route
 
 ### 1. Burcht van Leiden (15 minuten)
+
+<img src="https://en.wikipedia.org/wiki/Special:FilePath/Burcht_van_Leiden.jpg?width=800" alt="De Burcht van Leiden">
+<p class="photo-caption">De Burcht, een 12e-eeuwse ringburcht op een kunstmatige heuvel</p>
+
 Begin bij de **Burcht**, een ronde 12e-eeuwse vesting op een kunstmatige heuvel bij de samenvloeiing van de Oude en Nieuwe Rijn. Klim omhoog voor een panoramisch uitzicht over de daken en grachten. Toegang is gratis.
 
 ### 2. Pieterskerk & de Pilgrimvaders (20 minuten)
