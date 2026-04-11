@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }}</title>
+  <meta name="description" content="{{ page.description }}" />
+  {% if page.lang == 'en' %}
+  <link rel="alternate" hreflang="nl" href="{{ site.url }}/nl/{{ page.city_slug }}" />
+  {% else %}
+  <link rel="alternate" hreflang="en" href="{{ site.url }}/en/{{ page.city_slug }}" />
+  {% endif %}
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/travel.css' | relative_url }}" />
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXWYNZC7YH"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-XXWYNZC7YH');
+  </script>
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      line-height: 1.7;
+      color: var(--text);
+      background: linear-gradient(180deg, #F6F1E9 0%, #EDE5D8 100%);
+      min-height: 100vh;
+    }
+
+    .tour-shell {
+      max-width: 740px;
+      margin: 0 auto;
+      padding: 32px 24px 80px;
+    }
+
+    .tour-topbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 36px;
+    }
+
+    .tour-back {
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      color: var(--muted);
+      text-decoration: none;
+      font-size: 0.88rem;
+      font-weight: 500;
+      transition: color 0.15s;
+    }
+    .tour-back:hover { color: var(--text); }
+
+    .tour-lang-switcher {
+      display: flex;
+      gap: 8px;
+    }
+
+    .tour-lang-switcher .lang-toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      font-size: 0.84rem;
+      font-weight: 600;
+      text-decoration: none;
+      padding: 6px 14px;
+      border-radius: 999px;
+      color: var(--text);
+      border: 1px solid var(--border);
+      background: rgba(0,0,0,0.04);
+      transition: background 0.15s, color 0.15s;
+    }
+    .tour-lang-switcher .lang-toggle:hover {
+      background: rgba(0,0,0,0.08);
+    }
+    .tour-lang-switcher .lang-toggle.active {
+      background: linear-gradient(135deg, var(--accent), #E8913A);
+      color: white;
+      border-color: transparent;
+    }
+
+    .tour-content h1 {
+      font-size: 2.2rem;
+      font-weight: 800;
+      color: var(--text);
+      margin-bottom: 8px;
+      line-height: 1.15;
+    }
+
+    .tour-content h2 {
+      font-size: 1.5rem;
+      font-weight: 700;
+      color: var(--text);
+      margin-top: 48px;
+      margin-bottom: 16px;
+      padding-bottom: 8px;
+      border-bottom: 2px solid var(--accent);
+    }
+
+    .tour-content h3 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--accent);
+      margin-top: 36px;
+      margin-bottom: 12px;
+    }
+
+    .tour-content p {
+      margin-bottom: 14px;
+      color: var(--text);
+    }
+
+    .tour-content blockquote {
+      border-left: 3px solid var(--accent);
+      padding: 12px 20px;
+      margin: 16px 0 24px;
+      background: rgba(194, 98, 45, 0.06);
+      border-radius: 0 10px 10px 0;
+      font-style: italic;
+      color: var(--muted);
+    }
+
+    .tour-content blockquote p { margin-bottom: 0; color: var(--muted); }
+
+    .tour-content hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 32px 0;
+    }
+
+    .tour-content ul, .tour-content ol {
+      padding-left: 24px;
+      margin-bottom: 14px;
+    }
+
+    .tour-content li {
+      margin-bottom: 8px;
+      color: var(--text);
+    }
+
+    .tour-content strong { color: var(--text); }
+    .tour-content em { font-style: italic; }
+
+    .tour-content a {
+      color: var(--accent-2);
+      text-decoration: none;
+      font-weight: 500;
+      border-bottom: 1px solid rgba(27, 94, 138, 0.3);
+      transition: color 0.15s, border-color 0.15s;
+    }
+    .tour-content a:hover {
+      color: var(--accent);
+      border-color: var(--accent);
+    }
+
+    .tour-content table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 16px 0 24px;
+      background: var(--card);
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: var(--shadow);
+    }
+
+    .tour-content th, .tour-content td {
+      padding: 10px 16px;
+      text-align: left;
+      border-bottom: 1px solid var(--border);
+      font-size: 0.9rem;
+    }
+
+    .tour-content th {
+      font-weight: 700;
+      color: var(--text);
+      background: rgba(0,0,0,0.02);
+    }
+
+    .tour-content td:first-child {
+      font-weight: 600;
+      color: var(--accent);
+      white-space: nowrap;
+      width: 1%;
+    }
+
+    .tour-content code {
+      background: rgba(0,0,0,0.06);
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.88em;
+    }
+
+    @media (max-width: 600px) {
+      .tour-shell { padding: 20px 16px 60px; }
+      .tour-content h1 { font-size: 1.7rem; }
+      .tour-content h2 { font-size: 1.25rem; }
+      .tour-topbar { flex-wrap: wrap; gap: 12px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="tour-shell">
+    <nav class="tour-topbar">
+      <a class="tour-back" href="{{ '/' | relative_url }}">← {% if page.lang == 'nl' %}Alle stadstours{% else %}All city tours{% endif %}</a>
+      <div class="tour-lang-switcher">
+        {% if page.lang == 'en' %}
+        <span class="lang-toggle active">🇬🇧 English</span>
+        <a class="lang-toggle" href="{{ '/nl/' | relative_url }}{{ page.city_slug }}">🇳🇱 Nederlands</a>
+        {% else %}
+        <a class="lang-toggle" href="{{ '/en/' | relative_url }}{{ page.city_slug }}">🇬🇧 English</a>
+        <span class="lang-toggle active">🇳🇱 Nederlands</span>
+        {% endif %}
+      </div>
+    </nav>
+
+    <article class="tour-content">
+      {{ content }}
+    </article>
+  </div>
+</body>
+</html>
