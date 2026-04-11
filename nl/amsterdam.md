@@ -34,7 +34,13 @@ Het Rijksmuseum is een van de grote musea van de wereld, maar loop er zonder pla
 
 Loop op weg naar buiten door de hoofdhal heen en kijk omhoog naar het gewelfde plafond: het is bedekt met ingewikkelde tegelpanelen die de geschiedenis van de Nederlandse handel en ambachten uitbeelden, gemaakt tussen 1877 en 1885. De meeste mensen staren hier op hun telefoon.
 
-**Niet missen:** Vermeers *Het Melkmeisje* in zaal 2.22 — kleiner dan je verwacht, stiller dan de Nachtwacht-menigte, en naar mijn mening het perfectere schilderij.
+**Niet missen:**
+
+- **Vermeers *Het Melkmeisje*** (zaal 2.22) — kleiner dan je verwacht, stiller dan de Nachtwacht-menigte, en naar mijn mening het perfectere schilderij. Alleen al het licht op de broodkorst is de moeite waard.
+- **Vermeers *Brieflezende vrouw*** (zaal 2.22) — ga dichtbij staan en kijk hoe Vermeer de landkaart aan de muur gebruikt om een verhaal te vertellen over afstand en verlangen, zonder een enkel woord.
+- **Rembrandts *Het Joodse bruidje*** (Eregalerij) — Van Gogh stond voor dit schilderij en zei dat hij tien jaar van zijn leven zou geven om er twee weken voor te mogen zitten. De tederheid van de hand van de man op de schouder van zijn vrouw is ongeëvenaard in de 17e-eeuwse schilderkunst.
+- **Jan Steens *Het vrolijke huisgezin*** (zaal 2.17) — een vrolijke morele les vermomd als een chaotisch diner. Zoek de inscriptie boven de schouw: "Soo de ouden songen, soo pypen de jongen."
+- **Frans Hals' *De vrolijke drinker*** (zaal 2.21) — geschilderd met zulk los, snel penseelwerk dat het bijna modern oogt. Het geheven glas lijkt je uit te nodigen om mee te doen.
 
 **Praktische tip:** Zelfs met vooraf geboekte tickets, kom 10 minuten vroeg. De gratis doorgang door de tunnel op de begane grond van het museum (24/7 open, geen ticket vereist) is een omweg waard, ook als je het museum niet bezoekt.
 

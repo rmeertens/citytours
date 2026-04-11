@@ -34,7 +34,13 @@ The Rijksmuseum is one of the great museums of the world, but walk in without a 
 
 On your way out through the main hall, look up at the vaulted ceiling: it's covered in intricate tile panels depicting the history of Dutch trade and crafts, made between 1877 and 1885. Most people stare at their phones here instead.
 
-**Don't miss:** Vermeer's *The Milkmaid* in Room 2.22 — smaller than you expect, quieter than the Night Watch crowd, and arguably the more perfect painting.
+**Don't miss:**
+
+- **Vermeer's *The Milkmaid*** (Room 2.22) — smaller than you expect, quieter than the Night Watch crowd, and arguably the more perfect painting. The light on the bread crust alone is worth the visit.
+- **Vermeer's *Woman Reading a Letter*** (Room 2.22) — stand close and watch how Vermeer uses the map on the wall to tell a story about distance and longing without a single word.
+- **Rembrandt's *The Jewish Bride*** (Gallery of Honour) — Van Gogh stood before this painting and said he'd give ten years of his life to sit in front of it for a fortnight. The tenderness in the man's hand on his wife's shoulder is unlike anything else in 17th-century painting.
+- **Jan Steen's *The Merry Family*** (Room 2.17) — a cheerful moral lesson disguised as a chaotic dinner party. Look for the inscription above the mantelpiece: "As the old sing, so pipe the young."
+- **Frans Hals's *The Merry Drinker*** (Room 2.21) — painted with such loose, fast brushwork that it looks almost modern. The raised glass seems to invite you to join in.
 
 **Practical tip:** Even with pre-booked tickets, arrive 10 minutes early. The free passage through the museum's ground-floor tunnel (open 24/7, no ticket required) is worth a detour even if you don't visit the museum.
 
