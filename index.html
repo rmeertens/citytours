@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>City Tours — Netherlands Half-Day Walks</title>
-  <meta name="description" content="Half-day walking tour guides for 13 Dutch cities: Amsterdam, Utrecht, Delft, Haarlem, Leiden, Rotterdam, Den Haag, Maastricht, Groningen, Eindhoven, Den Bosch, Gouda, and Middelburg. Available in English and Dutch." />
+  <meta name="description" content="Half-day walking tour guides for 16 Dutch cities: Amsterdam, Utrecht, Delft, Haarlem, Leiden, Rotterdam, Den Haag, Maastricht, Groningen, Eindhoven, Den Bosch, Gouda, Middelburg, Zwolle, Leeuwarden, and Arnhem. Available in English and Dutch." />
   <link rel="canonical" href="https://citytours.meertens.dev/" />
   <!-- Favicon -->
   <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
@@ -14,7 +14,7 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="City Tours" />
   <meta property="og:title" content="City Tours — Netherlands Half-Day Walks" />
-  <meta property="og:description" content="Half-day walking tour guides for 13 Dutch cities: Amsterdam, Utrecht, Delft, Haarlem, Leiden, Rotterdam, Den Haag, Maastricht, Groningen, Eindhoven, Den Bosch, Gouda, and Middelburg. Available in English and Dutch." />
+  <meta property="og:description" content="Half-day walking tour guides for 16 Dutch cities: Amsterdam, Utrecht, Delft, Haarlem, Leiden, Rotterdam, Den Haag, Maastricht, Groningen, Eindhoven, Den Bosch, Gouda, Middelburg, Zwolle, Leeuwarden, and Arnhem. Available in English and Dutch." />
   <meta property="og:url" content="https://citytours.meertens.dev/" />
   <meta property="og:image" content="https://citytours.meertens.dev/og-image.png" />
   <meta property="og:image:width" content="1200" />
@@ -42,7 +42,7 @@
   <style>
     .city-grid {
       display: grid;
-      grid-template-columns: repeat(2, minmax(0, 1fr));
+      grid-template-columns: repeat(3, minmax(0, 1fr));
       gap: 18px;
       margin-top: 8px;
     }
@@ -50,38 +50,53 @@
     .city-card {
       background: var(--card-strong);
       border: 1px solid var(--border);
-      border-radius: 24px;
-      padding: 24px 26px;
+      border-radius: 20px;
+      padding: 22px 24px;
       box-shadow: var(--shadow);
       display: flex;
       flex-direction: column;
       gap: 10px;
       transition: transform 0.18s ease, box-shadow 0.18s ease, border-color 0.18s ease;
       scroll-margin-top: 80px;
+      position: relative;
     }
 
     .city-card:hover,
     .city-card.highlighted {
       transform: translateY(-3px);
-      box-shadow: 0 28px 80px rgba(0, 0, 0, 0.15);
-      border-color: rgba(194, 98, 45, 0.5);
+      box-shadow: 0 20px 60px rgba(0, 0, 0, 0.13);
+      border-color: rgba(194, 98, 45, 0.45);
+    }
+
+    .city-card.is-new::after {
+      content: "NEW";
+      position: absolute;
+      top: 14px;
+      right: 16px;
+      font-size: 0.65rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      color: white;
+      background: linear-gradient(135deg, var(--accent), #E8913A);
+      padding: 2px 8px;
+      border-radius: 999px;
     }
 
     .city-card-top {
       display: flex;
       align-items: flex-start;
-      gap: 14px;
+      gap: 12px;
     }
 
     .city-icon {
-      font-size: 2rem;
+      font-size: 1.8rem;
       flex-shrink: 0;
       line-height: 1;
       margin-top: 2px;
     }
 
     .city-name {
-      font-size: 1.35rem;
+      font-size: 1.2rem;
       font-weight: 700;
       color: var(--text);
       margin: 0 0 4px;
@@ -99,56 +114,54 @@
     }
 
     .city-tagline {
-      font-size: 0.9rem;
+      font-size: 0.85rem;
       color: var(--muted);
       margin: 0;
       line-height: 1.5;
     }
 
     .city-funfact {
-      font-size: 0.83rem;
+      font-size: 0.8rem;
       color: var(--muted);
       background: rgba(27, 94, 138, 0.06);
-      border-left: 3px solid var(--accent-2);
-      border-top: none;
-      border-right: none;
-      border-bottom: none;
+      border-left: 3px solid rgba(27, 94, 138, 0.35);
       border-radius: 0 8px 8px 0;
-      padding: 8px 12px;
+      padding: 7px 10px;
       line-height: 1.5;
     }
 
     .city-highlights {
       display: flex;
       flex-wrap: wrap;
-      gap: 6px;
+      gap: 5px;
       margin-top: 2px;
     }
 
     .highlight-pill {
-      font-size: 0.75rem;
+      font-size: 0.72rem;
       font-weight: 600;
       color: var(--muted);
-      background: rgba(255, 255, 255, 0.06);
+      background: rgba(0, 0, 0, 0.04);
       border: 1px solid var(--border);
       border-radius: 999px;
-      padding: 3px 10px;
+      padding: 3px 9px;
     }
 
     .city-lang-links {
       display: flex;
-      gap: 10px;
-      margin-top: 4px;
+      gap: 8px;
+      margin-top: auto;
+      padding-top: 4px;
     }
 
     .lang-link {
       display: inline-flex;
       align-items: center;
       gap: 5px;
-      font-size: 0.82rem;
+      font-size: 0.8rem;
       font-weight: 700;
       text-decoration: none;
-      padding: 6px 14px;
+      padding: 6px 13px;
       border-radius: 999px;
       transition: background 0.15s, color 0.15s, opacity 0.15s;
     }
@@ -161,7 +174,7 @@
     .lang-link.nl {
       color: var(--text);
       border: 1px solid var(--border);
-      background: rgba(255, 255, 255, 0.04);
+      background: rgba(0, 0, 0, 0.04);
     }
 
     .lang-link:hover {
@@ -169,13 +182,13 @@
     }
 
     .lang-link .flag {
-      font-size: 1rem;
+      font-size: 0.95rem;
     }
 
     .tour-meta {
       display: flex;
-      gap: 18px;
-      font-size: 0.82rem;
+      gap: 14px;
+      font-size: 0.8rem;
       color: var(--muted);
     }
 
@@ -206,6 +219,12 @@
     .hero {
       padding: 64px 0 52px;
       text-align: center;
+      background: rgba(255,255,255,0.55);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 14px 20px;
+      min-width: 80px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.04);
     }
 
     .hero .eyebrow {
@@ -284,7 +303,7 @@
 
     #tour-map {
       width: 100%;
-      height: 420px;
+      height: 440px;
       border-radius: 20px;
       border: 1px solid var(--border);
       box-shadow: var(--shadow);
@@ -374,6 +393,12 @@
       color: var(--accent);
     }
 
+    @media (max-width: 1000px) {
+      .city-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+
     @media (max-width: 700px) {
       .page-shell {
         padding: 0 16px;
@@ -413,14 +438,12 @@
       <p class="eyebrow">city tours</p>
       <h1>Half-Day Walks in the <span>Netherlands</span></h1>
       <p class="hero-copy">
-        Curated 4-hour walking tours for 13 Dutch cities — from Amsterdam's Golden Age canals to
-        Maastricht's Roman ruins and Eindhoven's design scene. Each guide covers 5 stops with route,
-        tips, and practical info. Available in English and Dutch.
+        Curated walking tours for 16 Dutch cities — from Amsterdam's Golden Age canals and Maastricht's Roman walls to Arnhem's WWII bridge and Leeuwarden's leaning tower. Each guide covers 5–7 stops with route, timing, and practical tips. Available in English and Dutch.
       </p>
 
       <div class="intro-band">
         <div class="intro-stat">
-          <div class="stat-num">13</div>
+          <div class="stat-num">16</div>
           <div class="stat-label">Cities</div>
         </div>
         <div class="intro-stat">
@@ -786,11 +809,86 @@
             </div>
           </div>
 
+          <div class="city-card is-new" id="card-zwolle">
+            <div class="city-card-top">
+              <div class="city-icon">🏰</div>
+              <div>
+                <h2 class="city-name"><a href="en/zwolle">Zwolle</a></h2>
+                <p class="city-tagline">A Hanseatic city with an intact star fortress, a tower shaped like a pepper shaker, and a flying-saucer museum grafted onto a neoclassical palace.</p>
+              </div>
+            </div>
+            <div class="city-funfact">Thomas à Kempis wrote <em>The Imitation of Christ</em> in a monastery outside Zwolle around 1418. It became the most translated book in Western literature after the Bible.</div>
+            <div class="city-highlights">
+              <span class="highlight-pill">Sassenpoort</span>
+              <span class="highlight-pill">Grote Kerk (Peperbus)</span>
+              <span class="highlight-pill">Museum de Fundatie</span>
+              <span class="highlight-pill">Star fortress walls</span>
+            </div>
+            <div class="tour-meta">
+              <span>🚶 ~3.5 km</span>
+              <span>🚂 45 min from Utrecht</span>
+            </div>
+            <div class="city-lang-links">
+              <a class="lang-link en" href="en/zwolle"><span class="flag">🇬🇧</span> English</a>
+              <a class="lang-link nl" href="nl/zwolle"><span class="flag">🇳🇱</span> Nederlands</a>
+            </div>
+          </div>
+
+          <div class="city-card is-new" id="card-leeuwarden">
+            <div class="city-card-top">
+              <div class="city-icon">🗼</div>
+              <div>
+                <h2 class="city-name"><a href="en/leeuwarden">Leeuwarden</a></h2>
+                <p class="city-tagline">Frisian capital with a leaning tower more dramatic than Pisa, birthplace of both M.C. Escher and Mata Hari, and its own distinct language.</p>
+              </div>
+            </div>
+            <div class="city-funfact">Mata Hari — dancer, spy, and the most famous woman executed in WWI — was born Margaretha Zelle on a quiet street in Leeuwarden in 1876. The building is now a shoe shop.</div>
+            <div class="city-highlights">
+              <span class="highlight-pill">Oldehove tower</span>
+              <span class="highlight-pill">Fries Museum</span>
+              <span class="highlight-pill">Mata Hari birthplace</span>
+              <span class="highlight-pill">Princessehof ceramics</span>
+            </div>
+            <div class="tour-meta">
+              <span>🚶 ~3.5 km</span>
+              <span>🚂 35 min from Groningen</span>
+            </div>
+            <div class="city-lang-links">
+              <a class="lang-link en" href="en/leeuwarden"><span class="flag">🇬🇧</span> English</a>
+              <a class="lang-link nl" href="nl/leeuwarden"><span class="flag">🇳🇱</span> Nederlands</a>
+            </div>
+          </div>
+
+          <div class="city-card is-new" id="card-arnhem">
+            <div class="city-card-top">
+              <div class="city-icon">🌉</div>
+              <div>
+                <h2 class="city-name"><a href="en/arnhem">Arnhem</a></h2>
+                <p class="city-tagline">The Bridge Too Far — where the largest Allied airborne operation stalled in 1944. Today: the Netherlands' finest open-air museum and one of Europe's best zoos.</p>
+              </div>
+            </div>
+            <div class="city-funfact">Of the 10,000 British paratroopers who dropped near Arnhem in September 1944, fewer than 2,500 returned. The John Frost Bridge they fought to hold still stands over the Rhine.</div>
+            <div class="city-highlights">
+              <span class="highlight-pill">John Frost Bridge</span>
+              <span class="highlight-pill">Openluchtmuseum</span>
+              <span class="highlight-pill">Burgers' Zoo</span>
+              <span class="highlight-pill">Sonsbeek Park</span>
+            </div>
+            <div class="tour-meta">
+              <span>🚶 ~4 km</span>
+              <span>🚂 30 min from Utrecht</span>
+            </div>
+            <div class="city-lang-links">
+              <a class="lang-link en" href="en/arnhem"><span class="flag">🇬🇧</span> English</a>
+              <a class="lang-link nl" href="nl/arnhem"><span class="flag">🇳🇱</span> Nederlands</a>
+            </div>
+          </div>
+
         </div>
       </section>
 
       <div class="closing-quote">
-        <p>All tours are designed for a single morning or afternoon — arrive by train, walk at a comfortable pace, and leave knowing the city's best corners.</p>
+        <p>All 16 tours are designed for a single morning or afternoon — arrive by train, walk at a comfortable pace, and leave knowing the city's best corners.</p>
       </div>
     </main>
 
@@ -814,7 +912,10 @@
       { id: "eindhoven",  name: "Eindhoven",  lat: 51.4416, lng: 5.4697,  tagline: "Design capital, Philips, Strijp-S",      en: "en/eindhoven",  nl: "nl/eindhoven"  },
       { id: "den-bosch",  name: "Den Bosch",  lat: 51.6978, lng: 5.3037,  tagline: "Bosch, Gothic cathedral, underground canals", en: "en/den-bosch", nl: "nl/den-bosch" },
       { id: "gouda",      name: "Gouda",      lat: 52.0116, lng: 4.7105,  tagline: "Cheese market, stained glass, stroopwafel",  en: "en/gouda",     nl: "nl/gouda"     },
-      { id: "middelburg", name: "Middelburg", lat: 51.4988, lng: 3.6136,  tagline: "Zeeland capital, Abbey, WWII reconstruction", en: "en/middelburg", nl: "nl/middelburg" },
+      { id: "middelburg",  name: "Middelburg",  lat: 51.4988, lng: 3.6136,  tagline: "Zeeland capital, Abbey, WWII reconstruction",      en: "en/middelburg",  nl: "nl/middelburg"  },
+      { id: "zwolle",      name: "Zwolle",      lat: 52.5168, lng: 6.0830,  tagline: "Hanseatic star fortress, Peperbus, De Fundatie",     en: "en/zwolle",      nl: "nl/zwolle"      },
+      { id: "leeuwarden",  name: "Leeuwarden",  lat: 53.2012, lng: 5.7999,  tagline: "Escher & Mata Hari's city, Oldehove, Fries Museum",  en: "en/leeuwarden",  nl: "nl/leeuwarden"  },
+      { id: "arnhem",      name: "Arnhem",      lat: 51.9851, lng: 5.8987,  tagline: "Bridge Too Far, Open Air Museum, Burgers' Zoo",      en: "en/arnhem",      nl: "nl/arnhem"      },
     ];
 
     const map = L.map("tour-map", {
