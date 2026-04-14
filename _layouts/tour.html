@@ -10,6 +10,11 @@
   {% else %}
   <link rel="alternate" hreflang="en" href="{{ site.url }}/en/{{ page.city_slug }}" />
   {% endif %}
+  <link rel="canonical" href="https://citytours.meertens.dev/{{ page.lang }}/{{ page.city_slug }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.description }}" />
+  <meta property="og:url" content="https://citytours.meertens.dev/{{ page.lang }}/{{ page.city_slug }}" />
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
