@@ -180,32 +180,91 @@
       color: var(--text);
     }
 
-    .intro-band {
-      display: flex;
-      gap: 32px;
-      margin-top: 24px;
+    /* ── Page layout ─────────────────────────────────────────── */
+    .page-shell {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 0 32px;
     }
 
-    .intro-stat {
+    /* ── Hero ─────────────────────────────────────────────────── */
+    .hero {
+      padding: 64px 0 52px;
       text-align: center;
     }
 
+    .hero .eyebrow {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      margin: 0 0 18px;
+    }
+
+    .hero h1 {
+      font-size: clamp(2rem, 5vw, 3rem);
+      font-weight: 800;
+      line-height: 1.12;
+      margin: 0 0 18px;
+    }
+
+    .hero-copy {
+      font-size: 1.05rem;
+      line-height: 1.75;
+      max-width: 580px;
+      margin: 0 auto;
+    }
+
+    /* ── Stat pill card ───────────────────────────────────────── */
+    .intro-band {
+      display: inline-flex;
+      gap: 0;
+      margin-top: 36px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      box-shadow: 0 4px 24px rgba(0, 0, 0, 0.08);
+      overflow: hidden;
+    }
+
+    .intro-stat {
+      padding: 20px 28px;
+      text-align: center;
+      border-right: 1px solid var(--border);
+    }
+
+    .intro-stat:last-child {
+      border-right: none;
+    }
+
     .intro-stat .stat-num {
-      font-size: 2rem;
+      font-size: 1.8rem;
       font-weight: 800;
       color: var(--accent);
       line-height: 1;
     }
 
     .intro-stat .stat-label {
-      font-size: 0.8rem;
+      font-size: 0.72rem;
       color: var(--muted);
-      margin-top: 4px;
+      margin-top: 5px;
+      font-weight: 500;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
     }
 
     /* Map */
     .map-section {
-      margin-top: 56px;
+      margin-top: 48px;
+    }
+
+    .map-label {
+      font-size: 0.72rem;
+      font-weight: 700;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      color: var(--accent-2);
+      margin: 0 0 14px;
     }
 
     #tour-map {
@@ -261,11 +320,30 @@
     }
 
     @media (max-width: 700px) {
+      .page-shell {
+        padding: 0 16px;
+      }
       .city-grid {
         grid-template-columns: 1fr;
       }
+      .hero {
+        padding: 40px 0 36px;
+      }
       .intro-band {
-        gap: 20px;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        width: 100%;
+      }
+      .intro-stat {
+        padding: 16px 12px;
+        border-right: 1px solid var(--border);
+        border-bottom: 1px solid var(--border);
+      }
+      .intro-stat:nth-child(2n) {
+        border-right: none;
+      }
+      .intro-stat:nth-last-child(-n+2) {
+        border-bottom: none;
       }
       #tour-map {
         height: 300px;
@@ -309,10 +387,7 @@
 
       <!-- MAP -->
       <section class="map-section">
-        <div class="section-heading">
-          <p class="section-kicker">where to go</p>
-          <h2>Cities on the Map</h2>
-        </div>
+        <p class="map-label">where to go</p>
         <div id="tour-map"></div>
         <p class="map-hint">Click a marker to jump to that city's tour guide.</p>
       </section>
