@@ -93,7 +93,7 @@ Je bent hier niet om te winkelen. Je bent hier om langzaam te lopen, naar de gra
 <img src="https://en.wikipedia.org/wiki/Special:FilePath/Westerkerk_Amsterdam.jpg?width=800" alt="De Westerkerk-toren rijst 85 meter boven de Prinsengracht uit">
 <p class="photo-caption">De Westerkerk-toren rijst 85 meter boven de Prinsengracht uit</p>
 
-De **Westerkerk** (1631) is de hoogste kerk van Amsterdam met 85 meter, bekroond door de keizerskroon van de Heilige Roomse Keizer Maximiliaan I — een symbool dat Amsterdam in 1489 ontving als dank voor de loyaliteit van de stad. Rembrandt werd hier in 1669 begraven in een anoniem armengraf; een gedenkplaat op de kerkervloer markeert de geschatte locatie.
+De **Westerkerk** (1631) is de hoogste kerk van Amsterdam met 85 meter, bekroond door de keizerskroon van de Heilige Roomse Keizer Maximiliaan I — een symbool dat Amsterdam in 1489 ontving als dank voor de loyaliteit van de stad. Rembrandt werd hier in 1669 begraven in een anoniem armengraf; een gedenkplaat op de kerkvloer markeert de geschatte locatie.
 
 Het uitzicht vanaf de Prinsengracht naar het zuiden richting de Negen Straatjes is precies wat Amsterdam zou moeten zijn: leunende bakstenen gevels, boten op het water, fietsers die in een eindeloze ontspannen stroom de bruggen oversteken.
 
@@ -129,7 +129,7 @@ De Jordaan werd in de jaren 1620 gebouwd toen Amsterdam naar het westen uitbreid
 
 Loop langs de **Bloemgracht** (Bloemengracht) — de mooiste straat van de Jordaan, de gracht geflankeerd door drie rijen 17e-eeuwse huizen. Let op het huis op **Bloemgracht 87–91**: drie trapgevelheden uit 1642, elk met een gehouwen stenen tablet met een stadsman, een boer en een zeeman — de drie klassen die op de straat woonden.
 
-Steek je hoofd naar binnen in de **Karthuizerhof** op de Karthuizerstraat — een verborgen hofje uit 1650, volledig onzichtbaar van de straat, volledig stil.
+Loop even de **Karthuizerhof** op de Karthuizerstraat in — een verborgen hofje uit 1650, volledig onzichtbaar van de straat, volledig stil.
 
 **Niet missen:** De straatkunst op de zijkanten van de huizen langs de Elandsgracht — een van de oudste en beste in de stad.
 

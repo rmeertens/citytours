@@ -113,7 +113,7 @@ Het museum presenteert de Nederlandse Opstand (de 80-jarige Oorlog tegen Spanje)
 
 De Beestenmarkt is Delfts tweede plein en zijn beste geheim. Waar de Markt toeristen bedient, bedient de Beestenmarkt Delftenaren. Het is omgeven door bruine cafés en terrassen waar studenten, ambtenaren en bewoners samenkomen — minder postzegels voor Instagram, meer gesprekken over borrelnootjes. De naam herinnert aan de veemarkt die hier eeuwenlang werd gehouden.
 
-Ga zitten. Besteld iets. Let op het contrast met het toeristische geweld van de Markt op een paar straten afstand. Dit is wat een Nederlandse stad er van binnen uitziet als ze niet voor de export is verpakt.
+Ga zitten. Bestel iets. Let op het contrast met het toeristische geweld van de Markt op een paar straten afstand. Dit is wat een Nederlandse stad er van binnen uitziet als ze niet voor de export is verpakt.
 
 **Niet missen:** **Brasserie 't Beest** aan het plein heeft een uitstekend terras en serveert goede klassieke Nederlandse borrelhapjes. Bestel de bitterballen.
 

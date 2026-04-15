@@ -26,7 +26,7 @@ Haarlem is Amsterdams elegante buurstad — slechts 20 minuten per trein — met
 ### 1. Grote Markt (20 minuten)
 Kom aan op de **Grote Markt**, Haarlems hoofdplein, gedomineerd door de imposante **Grote Kerk van Sint-Bavo**. Op zaterdag staat het plein vol met kramen met bloemen, kaas en streetfood. De 15e-eeuwse kerk is een van de grootste van Nederland.
 
-> Het beroemde Müller-orgel in Sint-Bavo werd in 1766 bespeeld door de jonge Mozart. Ook Händel bezocht het instrument. Toegang tot de kerk is gratis.
+> Het beroemde Müller-orgel in Sint-Bavo werd in 1766 bespeeld door de jonge Mozart. Ook Händel trok er speciaal voor naar Haarlem. Toegang tot de kerk is gratis.
 
 ### 2. Grote Kerk van Sint-Bavo (30 minuten)
 Ga naar binnen en bewonder het hoge gotische interieur en het imposante **Christian Müller-orgel** uit 1738 — 5.000 pijpen, 60 registers en 30 meter hoog. In de zomer zijn er op dinsdag- en donderdagmiddag orgelconcerten.

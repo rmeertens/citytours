@@ -39,7 +39,7 @@ Loop naar de **Oudehaven**, de oudste haven van Rotterdam. Historische schepen l
 ### 4. Erasmusbrug & Wilhelminapier (30 minuten)
 Loop over de elegante **Erasmusbrug** voor een panoramisch uitzicht over de Maas en de skyline. Op de zuidoever is de **Wilhelminapier** een cluster van iconische torens: het **Hotel New York** (voormalig hoofdkantoor van de Holland-Amerika Lijn), de **De Rotterdam** mixed-use toren en de **Montevideo** woontoren. Drink een koffie op het terras van Hotel New York met uitzicht op de rivier.
 
-> Hotel New York was het vertrekpunt voor tienduizenden Europese emigranten die in het begin van de 20e eeuw naar Amerika vertrokken.
+> Hotel New York was het vertrekpunt voor honderdduizenden Europese emigranten die in het begin van de 20e eeuw naar Amerika vertrokken.
 
 ### 5. Depot Boijmans Van Beuningen (1 uur)
 Ga terug naar de noordoever en bezoek het **Depot Boijmans Van Beuningen** — het eerste publiek toegankelijke kunstdepot ter wereld, geopend in 2021. Het spiegel-komvormige gebouw herbergt 151.000 kunstwerken en stelt bezoekers in staat tussen de echte opslagrampen te lopen. De daktuin en het café bieden prachtig uitzicht op de skyline. (Het hoofdmuseum is tot ~2028 in renovatie.)
