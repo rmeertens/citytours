@@ -107,16 +107,15 @@
 
     .city-funfact {
       font-size: 0.83rem;
-      color: var(--accent-2);
-      background: rgba(34, 197, 94, 0.08);
-      border: 1px solid rgba(34, 197, 94, 0.18);
-      border-radius: 10px;
+      color: var(--muted);
+      background: rgba(27, 94, 138, 0.06);
+      border-left: 3px solid var(--accent-2);
+      border-top: none;
+      border-right: none;
+      border-bottom: none;
+      border-radius: 0 8px 8px 0;
       padding: 8px 12px;
-      line-height: 1.45;
-    }
-
-    .city-funfact::before {
-      content: "💡 ";
+      line-height: 1.5;
     }
 
     .city-highlights {
@@ -155,7 +154,7 @@
     }
 
     .lang-link.en {
-      background: linear-gradient(135deg, var(--accent), #6d7cff);
+      background: linear-gradient(135deg, var(--accent), #E8913A);
       color: white;
     }
 
@@ -335,6 +334,46 @@
       text-align: center;
     }
 
+    /* Closing quote */
+    .closing-quote {
+      margin-top: 56px;
+      padding: 32px 40px;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 20px;
+      box-shadow: var(--shadow);
+      text-align: center;
+    }
+
+    .closing-quote p {
+      font-size: 1.05rem;
+      line-height: 1.8;
+      color: var(--muted);
+      max-width: 640px;
+      margin: 0 auto;
+      font-style: italic;
+    }
+
+    /* Footer */
+    .site-footer {
+      margin-top: 48px;
+      padding: 20px 0 36px;
+      border-top: 1px solid var(--border);
+      text-align: center;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .site-footer a {
+      color: var(--muted);
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .site-footer a:hover {
+      color: var(--accent);
+    }
+
     @media (max-width: 700px) {
       .page-shell {
         padding: 0 16px;
@@ -374,7 +413,7 @@
       <p class="eyebrow">city tours</p>
       <h1>Half-Day Walks in the <span>Netherlands</span></h1>
       <p class="hero-copy">
-        Curated 4-hour walking tours for 10 Dutch cities — from Amsterdam's Golden Age canals to
+        Curated 4-hour walking tours for 13 Dutch cities — from Amsterdam's Golden Age canals to
         Maastricht's Roman ruins and Eindhoven's design scene. Each guide covers 5 stops with route,
         tips, and practical info. Available in English and Dutch.
       </p>
@@ -750,10 +789,14 @@
         </div>
       </section>
 
-      <section class="quote card" style="margin-top: 56px;">
+      <div class="closing-quote">
         <p>All tours are designed for a single morning or afternoon — arrive by train, walk at a comfortable pace, and leave knowing the city's best corners.</p>
-      </section>
+      </div>
     </main>
+
+    <footer class="site-footer">
+      <p>City Tours · Half-day walking guides for the Netherlands · <a href="https://citytours.meertens.dev/">citytours.meertens.dev</a></p>
+    </footer>
   </div>
 
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -780,7 +823,7 @@
       zoomControl: true,
     });
 
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/">CARTO</a>',
       subdomains: "abcd",
       maxZoom: 19,
