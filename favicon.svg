@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="7" fill="#C2622D"/>
+  <!-- Map pin -->
+  <path d="M16 5C11.86 5 8.5 8.36 8.5 12.5C8.5 18.25 16 27 16 27C16 27 23.5 18.25 23.5 12.5C23.5 8.36 20.14 5 16 5Z" fill="white"/>
+  <circle cx="16" cy="12.5" r="3.5" fill="#C2622D"/>
+</svg>
