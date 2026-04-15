@@ -3,7 +3,7 @@ layout: tour
 lang: nl
 city_slug: rotterdam
 title: "Rotterdam — Halve dag stadstour"
-description: "Een stad die in 1940 met de grond gelijkgemaakt werd en zichzelf herbouwde als het boldste architectuurexperiment van Europa."
+description: "Een stad die in 1940 met de grond gelijkgemaakt werd en zichzelf herbouwde als het meest gedurfde architectuurexperiment van Europa."
 ---
 
 # Halve dag stadstour: Rotterdam
@@ -14,7 +14,7 @@ description: "Een stad die in 1940 met de grond gelijkgemaakt werd en zichzelf h
 
 ## Overzicht
 
-Rotterdam is anders dan alle andere Nederlandse steden. Na de verwoesting door het bombardement in 1940 herbouwde de stad zichzelf als een etalage van gedurfd modern architectuur. Het resultaat is een van de meest opwindende stedelijke landschappen van Europa: kubuswoningen, een markthal in de vorm van een hoefijzer, een potloodvormige toren en de grootste haven van Europa die tot aan de horizon reikt. Deze tour behandelt de architectonische hoogtepunten en de levendige waterkant.
+Rotterdam is anders dan alle andere Nederlandse steden. Na de verwoesting door het bombardement in 1940 herbouwde de stad zichzelf als een etalage van gedurfde moderne architectuur. Het resultaat is een van de meest opwindende stedelijke landschappen van Europa: kubuswoningen, een markthal in de vorm van een hoefijzer, een potloodvormige toren en de grootste haven van Europa die tot aan de horizon reikt. Deze tour behandelt de architectonische hoogtepunten en de levendige waterkant.
 
 ---
 

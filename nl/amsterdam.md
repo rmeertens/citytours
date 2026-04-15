@@ -121,11 +121,11 @@ De kamers zijn grotendeels leeg gelaten: de tentoonstellingmakers en de nabestaa
 
 ---
 
-### 6. De Jordaan — Buurtdeel Walk
+### 6. De Jordaan — Buurtverkenning
 
 **Tijd hier:** 40 minuten
 
-De Jordaan werd in de jaren 1620 gebouwd toen Amsterdam naar het westen uitbreidde, en het was vanaf het begin ontworpen voor de armen: kleine huizen in smalle straten, geen grachten voor transport. Het bleef arbeiderswijk tot de jaren zeventig, werd ontdekt, gentrifieerd, en is nu een van de duurste adressen van het land. De botten van de oude buurt zijn er nog als je kijkt.
+De Jordaan werd in de jaren 1620 gebouwd toen Amsterdam naar het westen uitbreidde, en het was vanaf het begin ontworpen voor de armen: kleine huizen in smalle straten, geen grachten voor transport. Het bleef arbeiderswijk tot de jaren zeventig, werd ontdekt, gentrifieerd, en is nu een van de duurste adressen van het land. De contouren van de oude buurt zijn er nog als je kijkt.
 
 Loop langs de **Bloemgracht** (Bloemengracht) — de mooiste straat van de Jordaan, de gracht geflankeerd door drie rijen 17e-eeuwse huizen. Let op het huis op **Bloemgracht 87–91**: drie trapgevelheden uit 1642, elk met een gehouwen stenen tablet met een stadsman, een boer en een zeeman — de drie klassen die op de straat woonden.
 

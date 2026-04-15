@@ -3,7 +3,7 @@ layout: tour
 lang: nl
 city_slug: utrecht
 title: "Utrecht — Hele dag stadstour"
-description: "Een middeleeuwse toren zonder zijn kerk, kades waar je op het water kunt eten, een museum vol speeldozen en een spoorwegmuseum dat volwassenen blij maakt als kinderen."
+description: "Een middeleeuwse toren zonder zijn kerk, kades waar je op het water kunt eten, een museum vol speeldozen en een spoorwegmuseum dat volwassenen net zo enthousiast maakt als kinderen."
 ---
 
 # Utrecht

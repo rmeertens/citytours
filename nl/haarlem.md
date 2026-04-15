@@ -3,7 +3,7 @@ layout: tour
 lang: nl
 city_slug: haarlem
 title: "Haarlem — Halve dag stadstour"
-description: "Amsterdams stillere buur: een gotisch orgel dat Mozart deed stoppen, het oudste museum van Nederland en Frans Hals die op zijn 80ste schildert voor de instelling die hem in leven houdt."
+description: "Amsterdams stillere buur: een gotisch orgel waarop Mozart uren bleef spelen en niet wilde stoppen, het oudste museum van Nederland en Frans Hals die op zijn 80ste schildert voor de instelling die hem in leven houdt."
 ---
 
 # Halve dag stadstour: Haarlem

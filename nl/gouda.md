@@ -19,7 +19,7 @@ description: "De kaas is niet eens het beste. Gouda's 13e-eeuwse marktplein is h
 
 ## De stad in 60 seconden
 
-Gouda was in de middeleeuwen een van de belangrijkste steden van Holland — een centrum van laken, bier en later kaasproductie, met een marktplein dat groot genoeg moest zijn voor de regionale handel. De **Markt** is nog steeds het grootste van Nederland, 120 × 90 meter. De **Sint-Janskerk** — de langste kerk van Nederland op 123 meter — torrent aan één kant boven op.
+Gouda was in de middeleeuwen een van de belangrijkste steden van Holland — een centrum van laken, bier en later kaasproductie, met een marktplein dat groot genoeg moest zijn voor de regionale handel. De **Markt** is nog steeds het grootste van Nederland, 120 × 90 meter. De **Sint-Janskerk** — de langste kerk van Nederland op 123 meter — torent aan één kant boven uit.
 
 De stad kende na de Gouden Eeuw verval, wat paradoxaal genoeg verklaart waarom ze er zo goed uitziet: Gouda kon het niet betalen om te herontwikkelen, zodat het zijn middeleeuwse stratenplan, zijn grachtennetwerk en de meeste historische gebouwen behield.
 
@@ -34,8 +34,6 @@ De stad kende na de Gouden Eeuw verval, wat paradoxaal genoeg verklaart waarom z
 De **Markt** meet 120 × 90 meter en is al een marktplaats sinds de 13e eeuw. Het **Stadhuis** (1450) aan de westzijde is een van de meest gefotografeerde gebouwen van Nederland: een gotisch trapgeveltje in roze en wit met een mechanisch klokkenspel. De **Waag** aan de zuidzijde was eeuwenlang de plek waar kaas officieel werd gewogen en gestempeld.
 
 Op donderdagochtenden van juni tot augustus is er de **kaasmarkt**: kooplieden in traditioneel kostuum brengen stapels Goudse kaaswielen op houten sleden, waarna de ceremoniële weging plaatsvindt bij de Waag. Het is een toeristisch evenement, maar gebaseerd op echte historische praktijk.
-
-**Niet missen:** Op **Markt 26** zit **Frituur De Tijd** — een snackbar die haar eten aanbiedt via een automatiek in de muur. Steek een munt in, open een luikje, haal een kroket. De kroket van Gouda is uitstekend.
 
 **Loop naar stop 2:** De ingang van de Sint-Janskerk is direct aan de Markt aan de oostkant — 2 minuten.
 

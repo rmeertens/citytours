@@ -3,7 +3,7 @@ layout: tour
 lang: nl
 city_slug: maastricht
 title: "Maastricht — Halve dag stadstour"
-description: "De oudste stad van Nederland: Romeinse funderingen, een Romaanse basiliek, de meest mooie boekwinkel ter wereld en de plek waar de EU werd geboren."
+description: "De oudste stad van Nederland: Romeinse funderingen, een Romaanse basiliek, de mooiste boekwinkel ter wereld en de plek waar de EU werd geboren."
 ---
 
 # Halve dag stadstour: Maastricht
