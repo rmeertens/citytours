@@ -244,4 +244,112 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/middelburg"/>
   </url>
 
+  <!-- Zwolle -->
+  <url>
+    <loc>https://citytours.meertens.dev/en/zwolle</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/zwolle"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/zwolle"/>
+  </url>
+  <url>
+    <loc>https://citytours.meertens.dev/nl/zwolle</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/zwolle"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/zwolle"/>
+  </url>
+
+  <!-- Leeuwarden -->
+  <url>
+    <loc>https://citytours.meertens.dev/en/leeuwarden</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/leeuwarden"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/leeuwarden"/>
+  </url>
+  <url>
+    <loc>https://citytours.meertens.dev/nl/leeuwarden</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/leeuwarden"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/leeuwarden"/>
+  </url>
+
+  <!-- Arnhem -->
+  <url>
+    <loc>https://citytours.meertens.dev/en/arnhem</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/arnhem"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/arnhem"/>
+  </url>
+  <url>
+    <loc>https://citytours.meertens.dev/nl/arnhem</loc>
+    <lastmod>2026-04-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/arnhem"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/arnhem"/>
+  </url>
+
+  <!-- Naarden -->
+  <url>
+    <loc>https://citytours.meertens.dev/en/naarden</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/naarden"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/naarden"/>
+  </url>
+  <url>
+    <loc>https://citytours.meertens.dev/nl/naarden</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/naarden"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/naarden"/>
+  </url>
+
+  <!-- Enkhuizen -->
+  <url>
+    <loc>https://citytours.meertens.dev/en/enkhuizen</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/enkhuizen"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/enkhuizen"/>
+  </url>
+  <url>
+    <loc>https://citytours.meertens.dev/nl/enkhuizen</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/enkhuizen"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/enkhuizen"/>
+  </url>
+
+  <!-- Hoorn -->
+  <url>
+    <loc>https://citytours.meertens.dev/en/hoorn</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/hoorn"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/hoorn"/>
+  </url>
+  <url>
+    <loc>https://citytours.meertens.dev/nl/hoorn</loc>
+    <lastmod>2026-04-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/hoorn"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/hoorn"/>
+  </url>
+
 </urlset>
