@@ -352,4 +352,58 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/hoorn"/>
   </url>
 
+  <!-- Dordrecht -->
+  <url>
+    <loc>https://citytours.meertens.dev/en/dordrecht</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/dordrecht"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/dordrecht"/>
+  </url>
+  <url>
+    <loc>https://citytours.meertens.dev/nl/dordrecht</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/dordrecht"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/dordrecht"/>
+  </url>
+
+  <!-- Amersfoort -->
+  <url>
+    <loc>https://citytours.meertens.dev/en/amersfoort</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/amersfoort"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/amersfoort"/>
+  </url>
+  <url>
+    <loc>https://citytours.meertens.dev/nl/amersfoort</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/amersfoort"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/amersfoort"/>
+  </url>
+
+  <!-- Kampen -->
+  <url>
+    <loc>https://citytours.meertens.dev/en/kampen</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/kampen"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/kampen"/>
+  </url>
+  <url>
+    <loc>https://citytours.meertens.dev/nl/kampen</loc>
+    <lastmod>2026-04-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://citytours.meertens.dev/en/kampen"/>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://citytours.meertens.dev/nl/kampen"/>
+  </url>
+
 </urlset>
